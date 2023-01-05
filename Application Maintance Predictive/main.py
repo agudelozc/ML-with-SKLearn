@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 29 22:06:52 2022
-
-@author: CRISTIAN
-"""
 
 # -*- coding: utf-8 -*-
 """
